@@ -88,14 +88,12 @@ header nav a {
 
 .container{
     display: flex;
-    padding: 15px;
 }
 
 /*Conteúdo do site*/
 .content{
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 1);
     background-color: white;
-    border-radius: 10px;
     padding: 40px;
     text-align: center;
     align-items: center;
@@ -154,7 +152,6 @@ footer {
     text-align: center;
     padding: 20px 0;
     font-family: Arial, sans-serif;
-    margin-top: 20px;
     background-color: green;
 }
   
