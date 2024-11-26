@@ -115,36 +115,33 @@ h2{
 figcaption{
     text-align: left;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 25px;
+    font-size: 16px;
 }
 
 .imagemfilme1{
-    width: 30%;
-    height: 10%;
+    width: 40%;
+    height: 30%;
     float: left;
     margin: 10px;
     
 }
 
 .imagemfilme2{
-    width: 30%;
-    height: 10%;
+    width: 40%;
+    height: 30%;
     float: left;
     margin: 10px;
     
 }
 
 .imagemfilme3{
-    width: 30%;
-    height: 10%;
+    width: 40%;
+    height: 30%;
     float: left;
     margin: 10px;
     
 }
 
-.imagem{
-    width: 50%;
-}
 
 /*Efeitos*/
 .item1 {

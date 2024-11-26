@@ -105,7 +105,9 @@ header nav a {
     border-radius: 10px;
 }
 
-
+.imagem{
+    width: 60%;
+}
 
 h2{
     text-align: left;
@@ -119,7 +121,7 @@ figcaption{
 }
 
 .imagemfilme1{
-    width: 30%;
+    width: 27%;
     height: 10%;
     float: left;
     margin: 10px;
@@ -127,7 +129,7 @@ figcaption{
 }
 
 .imagemfilme2{
-    width: 30%;
+    width: 27%;
     height: 10%;
     float: left;
     margin: 10px;
@@ -135,16 +137,13 @@ figcaption{
 }
 
 .imagemfilme3{
-    width: 30%;
+    width: 27%;
     height: 10%;
     float: left;
     margin: 10px;
     
 }
 
-.imagem{
-    width: 50%;
-}
 
 /*Efeitos*/
 .item1 {
