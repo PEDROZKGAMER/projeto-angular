@@ -105,9 +105,17 @@ header nav a {
     border-radius: 10px;
 }
 
-.nome-dos-filmes1{
+
+
+h2{
     text-align: left;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+figcaption{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
 }
 
 .imagemfilme1{
@@ -118,28 +126,22 @@ header nav a {
     
 }
 
-.sobrefilme1{
-    font-size: 20px;
-    text-align: left;
-}
-
-.nome-dos-filmes2{
-    text-align: left;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
 .imagemfilme2{
     width: 40%;
-    height: 20%;
+    height: 30%;
     float: left;
     margin: 10px;
     
 }
 
-.sobrefilme2{
-    font-size: 20px;
-    text-align: left;
+.imagemfilme3{
+    width: 40%;
+    height: 30%;
+    float: left;
+    margin: 10px;
+    
 }
+
 
 /*Efeitos*/
 .item1 {
