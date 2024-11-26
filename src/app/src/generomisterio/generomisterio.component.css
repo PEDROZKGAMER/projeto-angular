@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(117, 2, 69);
+    background-color: gray;
 }
 
 
 /*Cabeçalho*/
 header {
     display: flex;
-    background-color: green;
+    background-color: rgb(117, 2, 69);
     align-items: center;
     padding: 1rem;
     justify-content: space-between;
@@ -159,7 +159,7 @@ footer {
     text-align: center;
     padding: 20px 0;
     font-family: Arial, sans-serif;
-    background-color: green;
+    background-color: rgb(117, 2, 69);
 }
   
 .footer-content {

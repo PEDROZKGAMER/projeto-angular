@@ -6,7 +6,7 @@ body{
 /*Cabeçalho*/
 header {
     display: flex;
-    background-color: green;
+    background-color: gray;
     align-items: center;
     padding: 1rem;
     justify-content: space-between;
@@ -152,7 +152,7 @@ footer {
     text-align: center;
     padding: 20px 0;
     font-family: Arial, sans-serif;
-    background-color: green;
+    background-color: gray;
 }
   
 .footer-content {

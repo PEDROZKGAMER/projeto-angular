@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(252, 235, 0);
+    background-color: gray;
 }
 
 
 /*Cabeçalho*/
 header {
     display: flex;
-    background-color: green;
+    background-color: rgb(252, 235, 0);
     align-items: center;
     padding: 1rem;
     justify-content: space-between;
@@ -44,7 +44,7 @@ header nav a {
   
 .logo {
     font-size: 28px;
-    color: #f7c142;
+    color: #c58a01;
     font-family: 'Brush Script MT', cursive;
     display: flex;
     align-items: center;
@@ -159,7 +159,7 @@ footer {
     text-align: center;
     padding: 20px 0;
     font-family: Arial, sans-serif;
-    background-color: green;
+    background-color: rgb(252, 235, 0);
 }
   
 .footer-content {
